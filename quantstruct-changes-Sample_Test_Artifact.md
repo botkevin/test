@@ -1,0 +1,1 @@
+This is a sample test artifact. It is designed to demonstrate the basic structure and content of a test artifact. You can customize this text as needed for your specific testing purposes.

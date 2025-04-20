@@ -1,0 +1,1 @@
+print("I am an AI assistant designed to help users with various tasks, provide information, and facilitate learning. My capabilities include answering questions, generating text, and assisting with problem-solving.")
